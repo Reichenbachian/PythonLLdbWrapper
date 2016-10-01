@@ -1,0 +1,2 @@
+# PythonLLdbWrapper
+There is a python library for lldb. But there is no documentation and it is impossible to understand or read. So I've taken some of the more common methods and written wrappers around them. Please add any functions you want, so we can have a *working* lldb python implementation.
