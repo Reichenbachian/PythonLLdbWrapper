@@ -24,7 +24,7 @@ class lldbWrapper:
     timeout=0
 
     # user set variables
-    file = "/Users/localhost/Desktop/Projects/Working/ExecTrace/Test Code/test"
+    file = ""
     arguments = {}
 
     # Create debugger and target
